@@ -8,20 +8,20 @@ The below instructions are the steps to build the code in MacOS since the code w
 ### MAC
 
 #### Install via Homebrew
-1. install [homebrew](https://brew.sh/)
-2. update homebrew 
+1. Just install [homebrew](https://brew.sh/), if you're using a mac, you know you'd need it :D
+2. Update homebrew 
 	```bash
 	$> brew update
 	```
-3. add  homebrew science [tap](https://docs.brew.sh/Taps) 
+3. Add  homebrew science [tap](https://docs.brew.sh/Taps) 
 	```bash
 	$> brew tap brewsci/science
 	```
-4. view pcl install options
+4. View pcl install options
 	```bash
 	$> brew options pcl
 	```
-5. install PCL 
+5. Install PCL 
 	```bash
 	$> brew install pcl
 	```
