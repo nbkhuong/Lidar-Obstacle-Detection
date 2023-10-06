@@ -1,6 +1,6 @@
 # Lidar Obstacle Detection
 
-This repo is a clone of the template code of the Udacity course (https://github.com/udacity/SFND_Lidar_Obstacle_Detection). In this repo, the purpose to simulate the Lidar point clouds with PCL.
+This repo is a twin brother of the template code of a Udacity course (https://github.com/udacity/SFND_Lidar_Obstacle_Detection). The purpose of this repo is to simulate the Lidar point clouds with PCL.
 
 ## Local Installation
 The below instructions are the steps to build the code in MacOS since the code was tested and run on a Macbbook M1. In the case of building on Linux or Windows, please refer to the original repo mentioned above.
