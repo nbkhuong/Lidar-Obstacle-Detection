@@ -30,15 +30,13 @@ The below instructions are the steps to build the code in MacOS since the code w
 
    ```shell
    cd ~
-   git clone https://github.com/udacity/SFND_Lidar_Obstacle_Detection.git
+   git clone https://github.com/nbkhuong/Lidar-Obstacle-Detection.git
    ```
 
-7. Edit the CMakeLists.txt file as shown in Step 2 of Ubuntu installation instructions above.
-
-8. Execute the following commands in a terminal
+7. Execute the following commands in a terminal to build and run the project
 
    ```shell
-   cd ~/SFND_Lidar_Obstacle_Detection
+   cd ~/Lidar-Obstacle-Detection
    mkdir build && cd build
    cmake ..
    make
