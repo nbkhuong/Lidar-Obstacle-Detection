@@ -11,31 +11,31 @@ The below instructions are the steps to build the code in MacOS since the code w
 1. Just install [homebrew](https://brew.sh/), if you're using a mac, you know you'd need it :D
 2. Update homebrew 
 	```bash
-	$> brew update
+	brew update
 	```
 3. Add  homebrew science [tap](https://docs.brew.sh/Taps) 
 	```bash
-	$> brew tap brewsci/science
+	brew tap brewsci/science
 	```
 4. View pcl install options
 	```bash
-	$> brew options pcl
+	brew options pcl
 	```
 5. Install PCL 
 	```bash
-	$> brew install pcl
+	brew install pcl
 	```
 
 6. Clone this github repo
 
-   ```shell
+   ```bash
    cd ~
    git clone https://github.com/nbkhuong/Lidar-Obstacle-Detection.git
    ```
 
 7. Execute the following commands in a terminal to build and run the project
 
-   ```shell
+   ```bash
    cd ~/Lidar-Obstacle-Detection
    mkdir build && cd build
    cmake ..
